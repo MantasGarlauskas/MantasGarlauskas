@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, CSS, HTML, NodeJS, Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MantasGarlauskas](https://github.com/MantasGarlauskas)
+- 👨‍💻 All of my projects are available at [https://github.com/MantasGarlauskas?tab=repositories](https://github.com/MantasGarlauskas)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
