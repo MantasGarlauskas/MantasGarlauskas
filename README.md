@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mantas</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **JavaScript, CSS, HTML, NodeJS, Angular**
+- 🌱 I’m currently learning **JavaScript, CSS, HTML, NodeJS, Angular, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MantasGarlauskas?tab=repositories](https://github.com/MantasGarlauskas)
 
